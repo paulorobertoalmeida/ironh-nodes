@@ -25,7 +25,8 @@
 > ***This one emits a comment in your repository***<br>
 >git push <br>
 >***This command sends your modifications to your repository*** </br>
->git rm --cached <file> (to unstage)
+>git rm --cached <file> (to unstage) </br>
+>git Log
 
 </br> 
 
